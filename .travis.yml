@@ -1,5 +1,6 @@
 language: node_js
 node_js: 6.2.2
+npm: 2.19.5
 script:
   - env
   - echo QNODE_VERSION `which node`
